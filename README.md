@@ -1,42 +1,60 @@
-📊 Business Performance Analytics Dashboard
+# 📊 Business Performance Analytics Dashboard
 
-A comprehensive, interactive dashboard built with Power BI, Python, and DAX to visualize and analyze key business metrics across finance, sales, marketing, and operations.
+A comprehensive, interactive dashboard built using **Power BI**, **Python**, and **DAX** to monitor and optimize key business metrics across departments such as Finance, Sales, Marketing, and Operations.
 
-🔧 Tools & Technologies
-Power BI Desktop: For data modeling, report design, and visualization
+---
 
-Python: Used for automated data extraction and cleaning (via Power Query scripts)
+## 🔧 Tools & Technologies
 
-DAX: Advanced measures for dynamic KPIs, trend analysis, and custom logic
+* **Power BI Desktop** — Data modeling, report design, and interactive visualization
+* **Python (via Power Query)** — Automated data extraction and cleaning
+* **DAX (Data Analysis Expressions)** — Custom KPIs, calculated measures, and trend logic
 
-📌 Features
-💰 Financial Overview
-Track revenue, EBITDA, net income, operating margin, and gross profit with YoY growth and forecast accuracy.
+---
 
-📉 Budget vs Actuals
-Compare departmental budgets and spending trends. Highlights over-budget departments with dynamic alerts.
+## 📌 Features
 
-📈 Sales Performance
-Visualize sales by region and over time. Supports performance comparisons across geographies.
+### 💰 Financial Overview
 
-📊 Marketing Analytics
-Evaluate campaign ROI, CPC, CTR, and conversion rates. Understand which campaigns are driving the most revenue.
+* Revenue, Net Income, EBITDA, Gross Profit, Operating Margin
+* YoY Growth Trends and Forecast Accuracy
 
-🧾 Expense Tracking
-Monitor monthly expenses by vendor and category, identify cost drivers, and highlight top spending areas.
+### 📉 Budget vs Actual Analysis
 
-🔮 Forecasting & Variance
-Measure forecast accuracy, revenue hit rate, and deviation scores to support strategic planning.
+* Department-wise Budget Utilization
+* Monthly Spend Trends with Variance Indicators
+* Overbudget Department Flags
 
-🚀 Impact
-Reduced manual reporting effort by 10+ hours/month through Python automation.
+### 📈 Sales Performance
 
-Improved financial transparency, helping reduce budget overruns by 15%.
+* Total and Regional Sales Trends
+* Sales per Lead, Conversion Rate, and CPL Metrics
 
-Increased marketing ROI by up to 20% through campaign performance visibility.
+### 📊 Marketing Campaign Analytics
 
-Delivered 91.7% forecast accuracy, enhancing leadership confidence in projections.
+* ROI, CTR, CPC, and Conversion Rates per Campaign
+* Ad Spend vs Revenue Breakdown
 
-Enabled executives to monitor 6 departments and 4 regions in real time using a single dashboard.
+### 📃 Expense Tracking
 
-Boosted stakeholder decision-making speed by 30% with consolidated KPI reporting.
+* Monthly Expenses by Vendor and Category
+* High-Spend Department Monitoring
+
+### 🔮 Forecasting & Variance
+
+* Forecast vs Actual Spend
+* Forecast Accuracy, Revenue Hit Rate, Deviation Scores
+
+---
+
+## ✨ Impact
+
+* ✅ Reduced manual reporting effort by **10+ hours/month** using Python automation
+* ✅ Improved budget compliance, reducing overages by **15%**
+* ✅ Boosted marketing ROI by **up to 20%** through visibility into top-performing campaigns
+* ✅ Delivered **91.7% forecast accuracy**, enabling data-driven planning
+* ✅ Supported real-time monitoring for **6 departments** across **4 regions**
+* ✅ Accelerated KPI reporting and decision-making by **30%**
+
+
+---
