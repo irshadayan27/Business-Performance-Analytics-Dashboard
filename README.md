@@ -1,6 +1,7 @@
 Business Performance Analytics Dashboard
 
-Tools Used: Power BI, Python, DAX
+Tools Used: Power BI, Python
+
 Project Type: Self-Driven | End-to-End Dashboard Solution
 
 Description:
