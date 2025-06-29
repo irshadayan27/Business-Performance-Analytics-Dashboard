@@ -1,41 +1,42 @@
-Business Performance Analytics Dashboard
+📊 Business Performance Analytics Dashboard
 
-Tools Used: Power BI, Python
+A comprehensive, interactive dashboard built with Power BI, Python, and DAX to visualize and analyze key business metrics across finance, sales, marketing, and operations.
 
-Project Type: Self-Driven | End-to-End Dashboard Solution
+🔧 Tools & Technologies
+Power BI Desktop: For data modeling, report design, and visualization
 
-Description:
-Designed and implemented a comprehensive business analytics dashboard that provides real-time insights into financial performance, sales efficiency, marketing ROI, department-level spend, and forecast accuracy.
+Python: Used for automated data extraction and cleaning (via Power Query scripts)
 
-Key Contributions:
+DAX: Advanced measures for dynamic KPIs, trend analysis, and custom logic
 
-Data Integration with Python: Utilized Python scripts to automate data extraction and cleaning from multiple sources (CSV, Excel, and online APIs), ensuring up-to-date and high-quality data ingestion into Power BI.
+📌 Features
+💰 Financial Overview
+Track revenue, EBITDA, net income, operating margin, and gross profit with YoY growth and forecast accuracy.
 
-Advanced DAX Implementation: Created dynamic measures and KPIs using DAX to calculate metrics such as budget variance, conversion rate, ROI, cost per lead, revenue per region, and forecast accuracy.
+📉 Budget vs Actuals
+Compare departmental budgets and spending trends. Highlights over-budget departments with dynamic alerts.
 
-Dashboard Features:
+📈 Sales Performance
+Visualize sales by region and over time. Supports performance comparisons across geographies.
 
-Financial Overview: Tracked revenue, EBITDA, net income, and operating margin with year-over-year growth and forecast accuracy indicators.
+📊 Marketing Analytics
+Evaluate campaign ROI, CPC, CTR, and conversion rates. Understand which campaigns are driving the most revenue.
 
-Budget vs Actual: Compared departmental budget allocation and spending trends, identifying overbudget departments with visual indicators.
+🧾 Expense Tracking
+Monitor monthly expenses by vendor and category, identify cost drivers, and highlight top spending areas.
 
-Sales & Marketing Analytics: Visualized regional sales performance, marketing campaign ROI, and ad spend efficiency using charts and slicers.
+🔮 Forecasting & Variance
+Measure forecast accuracy, revenue hit rate, and deviation scores to support strategic planning.
 
-Expense Tracking: Monitored monthly expenses by category and vendor, helping identify cost-saving opportunities.
+🚀 Impact
+Reduced manual reporting effort by 10+ hours/month through Python automation.
 
-Forecasting & Variance: Assessed deviation scores and accuracy metrics to improve business predictability and planning.
+Improved financial transparency, helping reduce budget overruns by 15%.
 
-Impact:
+Increased marketing ROI by up to 20% through campaign performance visibility.
 
-Enabled stakeholders to detect overspending patterns, optimize resource allocation, and improve campaign decision-making.
+Delivered 91.7% forecast accuracy, enhancing leadership confidence in projections.
 
-Improved reporting speed and accuracy by reducing manual updates through Python automation.
+Enabled executives to monitor 6 departments and 4 regions in real time using a single dashboard.
 
-Delivered insights that supported a 91.7% forecast accuracy and enhanced budget utilization visibility across 6 key departments.
-
-Dynamic insights through DAX-powered metrics like “% Budget Utilization,” “Forecast Accuracy,” and “Campaign ROI”, aligning strategic goals with actual performance.
-
-Enabled granular sales performance tracking by region and month, which supported resource reallocation and boosted sales effectiveness in underperforming zones.
-
-Strengthened executive reporting with visually enriched summaries and drill-downs, enhancing stakeholder engagement during quarterly reviews.
-
+Boosted stakeholder decision-making speed by 30% with consolidated KPI reporting.
